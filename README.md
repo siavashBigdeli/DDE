@@ -18,3 +18,9 @@ Practicall, learning a DDE in higher dimentions is helpful in three ways:
 
 
 The code example uses Tensorflow 2, numpy, and matplotlib (for visualizaiton) 
+
+
+
+## Demo files
+- DDE_demo.ipynb: is a jupyter notebook with TF code to train DDEs
+- utils.py: is a python file with helper functions to generate samples from toy 2D distributions
