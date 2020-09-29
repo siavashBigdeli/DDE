@@ -1,6 +1,9 @@
 # Tutorial on DDEs using TensorFlow2
 
-This is a brief tutorial on learning density (un-normalized) estimates using denoising density esimators (DDEs, [article here](https://arxiv.org/abs/2001.02728)).
+This is a brief tutorial on learning density (un-normalized) estimates using denoising density esimators (DDEs):
+
+Article: Learning Generative Models using Denoising Density Estimators ([pdf](https://arxiv.org/abs/2001.02728))
+by S. A. Bigdeli, G. Lin, T. Portenier, L. A. Dunbar, M. Zwicker
 
 | Samples from dataset | Learned density during training | learned density gradient field |
 | --- | --- | --- |
